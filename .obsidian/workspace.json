@@ -11,14 +11,10 @@
             "id": "b1bf5a17a7e73f59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -196,6 +192,7 @@
   },
   "active": "b1bf5a17a7e73f59",
   "lastOpenFiles": [
+    "README.md",
     "Biology/Biology Lesson 1.md",
     "Biology"
   ]
