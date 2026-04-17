@@ -1,0 +1,8 @@
+# Obsidian (user-specific / transient)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/diagnostic.log
+
+# Obsidian trash (if enabled in vault root)
+.trash/
